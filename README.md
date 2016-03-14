@@ -1,6 +1,8 @@
 # Kotlin-Twitch-Sample
 A project playing with Kotlin on Android and using the Twitch and GiantBomb API
 
+![ ](/test.gif)
+
 Main Technical Highlights
 * Kotlin extensions
 * Kotlin Lambdas
