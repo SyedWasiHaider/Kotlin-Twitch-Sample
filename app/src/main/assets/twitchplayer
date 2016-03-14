@@ -1,0 +1,13 @@
+<html>
+<body>
+<div id="lol"></div>
+</body>
+  <iframe
+        src="http://player.twitch.tv/?channel=joshog&html5
+        height="500"
+        width="%s"
+        frameborder="0"
+        scrolling="no"
+        allowfullscreen="true">
+    </iframe>
+</html>
